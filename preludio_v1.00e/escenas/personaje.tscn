@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://le4egxdmkcnl"]
+
+[ext_resource type="Texture2D" uid="uid://brkea743aacii" path="res://activos/elementos_visuales/imagen_personaje.png" id="1_4hqkh"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_0dijn"]
+
+[node name="Personaje" type="CharacterBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-1, 0)
+scale = Vector2(0.099, 0.1)
+texture = ExtResource("1_4hqkh")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_0dijn")

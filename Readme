@@ -11,7 +11,9 @@ Los activos empleados para el desarrollo del audiojuego están ubicados en la ca
 Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección “Exploración de código y otros elementos” de este documento).
 
 
-/////Iniciación del audioensayo///// (¡Usar auriculares para una experiencia óptima de escucha!)
+/////Iniciación del audioensayo///// 
+
+Importante: Usar auriculares para una experiencia óptima. preludio no posee interfáz gráfica.
 
 Descargar el archivo desde la sección releases del repositorio de acuerdo al sistema operativo del PC en que se ejecutará el audiojuego (preludio_v1.00e_linux.zip / preludio_v1.00e_win.zip / preludio_v1.00e_macOS.zip).
 
@@ -41,8 +43,8 @@ Descargar el motor de juegos Godot desde la página oficial del proyecto.
 Abrir el motor e importar la carpeta preludio_v1.00e.
 Dar doble clic al proyecto para iniciar el motor.
 En la barra superior de opciones (2D/3D/Script/AssetLib) seleccionar “Script” para visualizar el código de programación.
-En el modo de visualización de código, una barra lateral a la izquierda permite la selección de los scripts disponibles (2).
-La opción 2D de la barra superior de opciones permite explorar la disposición de los elementos dentro del audiojuego.
+En el modo de visualización de código, un menú lateral, a la izquierda, permite la selección de los scripts disponibles.
+La opción 2D de la barra superior de opciones posibilita explorar la disposición de los elementos dentro del audiojuego.
 
 
 /////Controles de juego/////

@@ -2,16 +2,16 @@
 
 Repositorio del audiojuego/audioensayo preludio desarrollado por Nicolás Müller Bravo.
 
-En la sección [**_releases_**][descargas] del repositorio se puede descargar la versión jugable del audioensayo para Linux y para los sistemas operativos macOS y Windows (En el apartado [**_Iniciación del audiojuego_**](#Iniciación-del-audioensayo) de este escrito se incluyen instrucciones detalladas para ejecutar el audiojuego).
+En la sección [**_releases_**][descargas] del repositorio se puede descargar la versión jugable del audioensayo para Linux y para los sistemas operativos macOS y Windows (En el apartado [**_"Inicialización del audiojuego"_**](#Inicialización-del-audioensayo) de este escrito se incluyen instrucciones detalladas para ejecutar el audiojuego).
 
 Una descripción de los controles (teclas y botones) para jugar se incluye al [**_final_**](#Controles-de-juego) del este archivo de texto. 
 
 Los activos empleados para el desarrollo del audiojuego están ubicados en la carpeta _preludio_v1.00e_.
 
-Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección [**_Exploración de código y otros elementos_**](#Exploración-del-código-y-otros-elementos) de este documento).
+Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección [**_"Exploración de código y otros elementos"_**](#Exploración-del-código-y-otros-elementos) de este documento).
 
 
-## Iniciación del audioensayo
+## Inicialización del audioensayo
 
 **Importante**: Usar auriculares para una experiencia óptima. _preludio_ no posee interfáz gráfica.
 

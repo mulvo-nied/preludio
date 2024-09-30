@@ -33,13 +33,13 @@ Si se tiene antivirus, es posible que se requiera su desactivación o la inclusi
 Extraer el contenido del archivo comprimido (_preludio\_v1.00e\_macOS.zip_).
 Dar doble clic al ejecutable (_preludio\_v1.00e_) incluido en la carpeta MacOS (ubicada dentro de la carpeta "Contents": preludio_v1.00e.app > Contents > MacOS)
 En caso de no ejecutarse el archivo, ir a preferencias del sistema -> seguridad y privacidad -> abrir de todas formas.
-Para más información consultar la página oficial de [**_Godot_**](https://docs.godotengine.org/es/4.x/tutorials/export/running_on_macos.html#doc-running-on-macos)
+Para más información consultar la [**_documentación oficial de Godot_**](https://docs.godotengine.org/es/4.x/tutorials/export/running_on_macos.html#doc-running-on-macos)
 
 
 ## Exploración del código y otros elementos
 
-Descargar la carpeta _preludio\_v1.00e_ del repositorio o desde la sección de releases.
-Descargar el motor de juegos Godot desde la página oficial del proyecto.
+Descargar la carpeta _preludio\_v1.00e_ del repositorio o desde la sección de [**releases**][descargas].
+Descargar el motor de juegos [**Godot**](https://godotengine.org/) desde la página oficial del proyecto.
 Abrir el motor e importar la carpeta _preludio\_v1.00e_
 Dar doble clic al proyecto para iniciar el motor.
 En la barra superior de opciones (2D/3D/Script/AssetLib) seleccionar “Script” para visualizar el código de programación.

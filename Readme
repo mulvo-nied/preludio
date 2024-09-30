@@ -2,16 +2,17 @@
 
 Repositorio del audiojuego/audioensayo preludio desarrollado por Nicolás Müller Bravo.
 
-En la sección "releases" del repositorio se puede descargar la versión jugable del audioensayo para Linux y para los sistemas operativos macOS y Windows (En el apartado “Iniciación del audiojuego” de este escrito se incluyen instrucciones detalladas).
+En la sección "releases" del repositorio se puede descargar la versión jugable del audioensayo para Linux y para los sistemas operativos macOS y Windows (En el apartado “Iniciación del audiojuego” de este escrito se incluyen instrucciones detalladas para ejecutar el audiojuego).
 
-Una descripción de los controles (teclas y botones) para jugar se incluye al final del este archivo de texto.
+Una descripción de los controles (teclas y botones) para jugar se incluye al final del este archivo de texto. 
 
 Los activos empleados para el desarrollo del audiojuego están ubicados en la carpeta preludio_v1.00e.
 
 Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección “Exploración de código y otros elementos” de este documento).
 
 
-/////Iniciación del audioensayo/////
+/////Iniciación del audioensayo///// (¡Usar auriculares para una experiencia óptima de escucha!)
+
 Descargar el archivo desde la sección releases del repositorio de acuerdo al sistema operativo del PC en que se ejecutará el audiojuego (preludio_v1.00e_linux.zip / preludio_v1.00e_win.zip / preludio_v1.00e_macOS.zip).
 
 En Linux:
@@ -34,6 +35,7 @@ Para más información consultar la página oficial de Godot: https://docs.godot
 
 
 /////Exploración del código y otros elementos/////
+
 Descargar la carpeta preludio_v1.00e del repositorio o desde la sección de releases.
 Descargar el motor de juegos Godot desde la página oficial del proyecto.
 Abrir el motor e importar la carpeta preludio_v1.00e.
@@ -44,6 +46,7 @@ La opción 2D de la barra superior de opciones permite explorar la disposición 
 
 
 /////Controles de juego/////
+
 Computadora:
 -Teclas «a» y «d» / teclas direccionales «izquierda» y «derecha»: movimiento del personaje, respectivamente, hacia la izquierda o derecha.
 -Teclas «w» y «s» / teclas direccionales «arriba» y «abajo»: incremento o decremento, respectivamente, del volumen del audiojuego (por defecto el juego inicia en el volumen máximo).

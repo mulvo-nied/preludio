@@ -50,13 +50,13 @@ La opción 2D de la barra superior de opciones posibilita explorar la disposici�
 ## Controles de juego
 
 **Computadora:**
--Teclas «a» y «d» / teclas direccionales «izquierda» y «derecha»: movimiento del personaje, respectivamente, hacia la izquierda o derecha.
--Teclas «w» y «s» / teclas direccionales «arriba» y «abajo»: incremento o decremento, respectivamente, del volumen del audiojuego (por defecto el juego inicia en el volumen máximo).
--Tecla «esc»: Pausa (durante el juego) / Volver al juego (cuando el juego está pausado) / Cerrar la aplicación (una vez finalizada la partida).
--Tecla «enter»: Cerrar la aplicación (cuando el juego está pausado) / reiniciar el audiojuego (una vez finalizada la partida).
+* Teclas «a» y «d» / teclas direccionales «izquierda» y «derecha»: movimiento del personaje, respectivamente, hacia la izquierda o derecha.
+* Teclas «w» y «s» / teclas direccionales «arriba» y «abajo»: incremento o decremento, respectivamente, del volumen del audiojuego (por defecto el juego inicia en el volumen máximo).
+* Tecla «esc»: Pausa (durante el juego) / Volver al juego (cuando el juego está pausado) / Cerrar la aplicación (una vez finalizada la partida).
+* Tecla «enter»: Cerrar la aplicación (cuando el juego está pausado) / reiniciar el audiojuego (una vez finalizada la partida).
         
 **Mando de consola:**
--Botones izquierda y derecha de cruz de navegación / Movimiento horizontal (izquierda a derecha) de palanca de navegación: movimiento del personaje, respectivamente, hacia la izquierda o derecha.
--Botones arriba y abajo de cruz de navegación / Movimiento vertical (arriba a abajo) de palanca de navegación: incremento o decremento, respectivamente, del volumen del audiojuego (por defecto el juego inicia en el volumen máximo).
--Botón «start»: Pausa (durante el juego) / Volver al juego (cuando el juego está pausado) / Cerrar la aplicación (una vez finalizada la partida).
--Botón «select»: Cerrar la aplicación (cuando el juego está pausado) / reiniciar el audiojuego (una vez finalizada la partida).
+* Botones izquierda y derecha de cruz de navegación / Movimiento horizontal (izquierda a derecha) de palanca de navegación: movimiento del personaje, respectivamente, hacia la izquierda o derecha.
+* Botones arriba y abajo de cruz de navegación / Movimiento vertical (arriba a abajo) de palanca de navegación: incremento o decremento, respectivamente, del volumen del audiojuego (por defecto el juego inicia en el volumen máximo).
+* Botón «start»: Pausa (durante el juego) / Volver al juego (cuando el juego está pausado) / Cerrar la aplicación (una vez finalizada la partida).
+* Botón «select»: Cerrar la aplicación (cuando el juego está pausado) / reiniciar el audiojuego (una vez finalizada la partida).

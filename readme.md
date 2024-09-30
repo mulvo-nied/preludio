@@ -2,20 +2,20 @@
 
 Repositorio del audiojuego/audioensayo preludio desarrollado por Nicolás Müller Bravo.
 
-En la sección "**releases**" del repositorio se puede descargar la versión jugable del audioensayo para Linux y para los sistemas operativos macOS y Windows (En el apartado [**“Iniciación del audiojuego”**](#Iniciación-del-audioensayo) de este escrito se incluyen instrucciones detalladas para ejecutar el audiojuego).
+En la sección [**releases**][descargas] del repositorio se puede descargar la versión jugable del audioensayo para Linux y para los sistemas operativos macOS y Windows (En el apartado [**“Iniciación del audiojuego”**](#Iniciación-del-audioensayo) de este escrito se incluyen instrucciones detalladas para ejecutar el audiojuego).
 
-Una descripción de los controles (teclas y botones) para jugar se incluye al [final](#Controles-de-juego) del este archivo de texto. 
+Una descripción de los controles (teclas y botones) para jugar se incluye al [**final**](#Controles-de-juego) del este archivo de texto. 
 
 Los activos empleados para el desarrollo del audiojuego están ubicados en la carpeta _preludio_v1.00e_.
 
-Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección [**“Exploración de código y otros elementos”**](#Exploración-de-código-y-otros-elementos) de este documento).
+Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección [**“Exploración de código y otros elementos”**](#Exploración-del-código-y-otros-elementos) de este documento).
 
 
 ## Iniciación del audioensayo
 
 **Importante**: Usar auriculares para una experiencia óptima. _preludio_ no posee interfáz gráfica.
 
-**Descargar** el archivo desde la sección releases del repositorio de acuerdo al sistema operativo del PC en que se ejecutará el audiojuego (_preludio\_v1.00e\_linux.zip_ / _preludio\_v1.00e\_win.zip_ / _preludio\_v1.00e\_macOS.zip_).
+**Descargar** el archivo desde la sección [**releases**][descargas] del repositorio de acuerdo al sistema operativo del PC en que se ejecutará el audiojuego (_preludio\_v1.00e\_linux.zip_ / _preludio\_v1.00e\_win.zip_ / _preludio\_v1.00e\_macOS.zip_).
 
 **En Linux:**
 Extraer el contenido del archivo comprimido (_preludio\_v1.00e\_linux.zip_).
@@ -60,3 +60,5 @@ La opción 2D de la barra superior de opciones posibilita explorar la disposici�
 * Botones arriba y abajo de cruz de navegación / Movimiento vertical (arriba a abajo) de palanca de navegación: incremento o decremento, respectivamente, del volumen del audiojuego (por defecto el juego inicia en el volumen máximo).
 * Botón «start»: Pausa (durante el juego) / Volver al juego (cuando el juego está pausado) / Cerrar la aplicación (una vez finalizada la partida).
 * Botón «select»: Cerrar la aplicación (cuando el juego está pausado) / reiniciar el audiojuego (una vez finalizada la partida).
+
+[descargas]: https://github.com/mulvo-nied/preludio/releases

@@ -1,4 +1,4 @@
-#preludio
+# preludio
 
 Repositorio del audiojuego/audioensayo preludio desarrollado por Nicolás Müller Bravo.
 
@@ -11,7 +11,7 @@ Los activos empleados para el desarrollo del audiojuego están ubicados en la ca
 Los códigos de programación pueden abrirse usando el motor de juegos Godot (para más detalles referirse a la sección **“Exploración de código y otros elementos”** de este documento).
 
 
-##Iniciación del audioensayo
+## Iniciación del audioensayo
 
 **Importante**: Usar auriculares para una experiencia óptima. preludio no posee interfáz gráfica.
 
@@ -36,7 +36,7 @@ En caso de no ejecutarse el archivo, ir a preferencias del sistema -> seguridad 
 Para más información consultar la página oficial de [**_Godot_**](https://docs.godotengine.org/es/4.x/tutorials/export/running_on_macos.html#doc-running-on-macos)
 
 
-##Exploración del código y otros elementos
+## Exploración del código y otros elementos
 
 Descargar la carpeta preludio_v1.00e del repositorio o desde la sección de releases.
 Descargar el motor de juegos Godot desde la página oficial del proyecto.
@@ -47,7 +47,7 @@ En el modo de visualización de código, un menú lateral, a la izquierda, permi
 La opción 2D de la barra superior de opciones posibilita explorar la disposición de los elementos dentro del audiojuego.
 
 
-##Controles de juego
+## Controles de juego
 
 **Computadora:**
 -Teclas «a» y «d» / teclas direccionales «izquierda» y «derecha»: movimiento del personaje, respectivamente, hacia la izquierda o derecha.

@@ -31,9 +31,9 @@ Si se tiene antivirus, es posible que se requiera su desactivación o la inclusi
 
 **En macOS:**
 Extraer el contenido del archivo comprimido (_preludio\_v1.00e\_macOS.zip_).
-Dar doble clic al ejecutable (_preludio\_v1.00e_) incluido en la carpeta MacOS (ubicada dentro de la carpeta "Contents": preludio_v1.00e.app > Contents > MacOS)
+Dar doble clic al ejecutable (_preludio\_v1.00e_) incluido en la carpeta MacOS (ubicada dentro de la carpeta "Contents": preludio_v1.00e.app > Contents > MacOS).
 En caso de no ejecutarse el archivo, ir a preferencias del sistema -> seguridad y privacidad -> abrir de todas formas.
-Para más información consultar la [**_documentación oficial de Godot_**](https://docs.godotengine.org/es/4.x/tutorials/export/running_on_macos.html#doc-running-on-macos)
+Para más información consultar la [**_documentación oficial de Godot_**](https://docs.godotengine.org/es/4.x/tutorials/export/running_on_macos.html#doc-running-on-macos).
 
 
 ## Exploración del código y otros elementos
@@ -44,7 +44,8 @@ Abrir el motor e importar la carpeta _preludio\_v1.00e_
 Dar doble clic al proyecto para iniciar el motor.
 En la barra superior de opciones (2D/3D/Script/AssetLib) seleccionar “Script” para visualizar el código de programación.
 En el modo de visualización de código, un menú lateral, a la izquierda, permite la selección de los scripts disponibles.
-La opción 2D de la barra superior de opciones posibilita explorar la disposición de los elementos dentro del audiojuego.
+La opción 2D de la barra superior de opciones posibilita explorar la disposición de los elementos dentro del audiojuego. 
+El código de programación también puede ser visualizado abriendo los archivos ubicados [**_aquí_**](https://github.com/mulvo-nied/preludio/tree/master/preludio_v1.00e/programas).
 
 
 ## Controles de juego
